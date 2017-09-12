@@ -1,0 +1,8 @@
+{
+  "name": "gimyoungphil.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GimYoungPhil/gimyoungphil.github.io.git",
+  "author": "Gim YoungPhil <youngphil.gim@gmail.com>",
+  "license": "MIT"
+}
